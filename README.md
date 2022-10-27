@@ -19,8 +19,13 @@ Random Oversampling                                |   SMOTE Oversampling
 :-------------------------------------------------:|:-----------------------------:
 ![rand_OS](https://user-images.githubusercontent.com/108199140/198361205-76f4419f-2f9e-43dc-af4a-01155825991c.PNG) |
 
-
-
+| Result  | Random Oversampling | SMOTE Oversampling  | Undersampling | SMOTEEN |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Accuracy Score  | Content Cell  | Content Cell  | Content Cell  | Second Header |
+| Low-Risk Precision  | Content Cell  | Content Cell  | Content Cell  | Second Header |
+| High-Risk Precision  | Content Cell  | Content Cell  | Content Cell  | Second Header |
+| Low-Risk Recall  | Content Cell  | Content Cell  | Content Cell  | Second Header |
+| High-Risk Recall  | Content Cell  | Content Cell  | Content Cell  | Second Header |
 
 
 
