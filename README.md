@@ -10,11 +10,11 @@ The purpose of this analysis was to sample data from the LendingClub credit card
 
 | Result          | Random Oversampling | SMOTE Oversampling  | Undersampling | SMOTEEN |
 | --------------- | ------------------- | ------------------- | ------------- | ------------- |
-| Accuracy Score  | 0.581               | 0.659               | 0.659         | Second Header |
-| Low-Risk Precision  | High (1.00)     | High (1.00)         | High (1.00)   | Second Header |
-| High-Risk Precision  | Low (0.01)     | Low (0.01)          | Low (0.01)    | Second Header |
-| Low-Risk Recall  | 0.58               | 0.68                | 0.40          | Second Header | 
-| High-Risk Recall  | 0.71              | 0.63                | 0.69          | Second Header | 
+| Accuracy Score  | 0.581               | 0.659               | 0.659         | 0.544 |
+| Low-Risk Precision  | High (1.00)     | High (1.00)         | High (1.00)   | High (1.00) |
+| High-Risk Precision  | Low (0.01)     | Low (0.01)          | Low (0.01)    | Low (0.01) |
+| Low-Risk Recall  | 0.58               | 0.68                | 0.40          | 0.57 | 
+| High-Risk Recall  | 0.71              | 0.63                | 0.69          | 0.72 | 
 
 
 Random Oversampling                                |   SMOTE Oversampling
