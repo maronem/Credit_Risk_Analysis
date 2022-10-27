@@ -9,7 +9,7 @@ The purpose of this analysis was to sample data from the LendingClub credit card
 ### Non-Aggregate Algorithms
 
 
-#### Random Oversampling                           | #### SMOTE Oversampling
+#### Random Oversampling                           | SMOTE Oversampling
 
 * Accuracy Score: 0.58
 * Precision low for high- risk loans and high for low-risk loans
