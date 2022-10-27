@@ -6,3 +6,32 @@ The purpose of this analysis was to sample data from the LendingClub credit card
 
 ## Results
 
+#### Non-Aggregate Algorithms
+
+
+Random Oversampling                                               |     Helpful Reviews
+
+* Accuracy Score: 0.58
+* Precision low for high- risk loans and high for low-risk loans
+* High-risk recall: 0.71 // Low-risk recall: 0.58
+:----------------------------------------------------------------:|:-----------------------------:
+![rand_OS](https://user-images.githubusercontent.com/108199140/198361205-76f4419f-2f9e-43dc-af4a-01155825991c.PNG) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
