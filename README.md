@@ -16,6 +16,11 @@ The purpose of this analysis was to sample data from the LendingClub credit card
 | Low-Risk Recall  | 0.58               | 0.68                | 0.40          | 0.57 | 
 | High-Risk Recall  | 0.71              | 0.63                | 0.69          | 0.72 | 
 
+#### Legend:
+
+* Accuracy score: Percentage of accurate predictions
+* Precision: The number of positive class predictions that are actually positive
+* Recall: The number of positive class predictions of all positive class examples
 
 Random Oversampling                                |   SMOTE Oversampling
 :-------------------------------------------------:|:-----------------------------:
