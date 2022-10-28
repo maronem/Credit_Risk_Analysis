@@ -30,7 +30,7 @@ Undersampling                                      |   SMOTEEN
 :-------------------------------------------------:|:-----------------------------:
 ![LR_US](https://user-images.githubusercontent.com/108199140/198366857-da6be1ab-2ebe-4559-a6f8-5a5ba6544756.PNG) | ![Combo_OSUS](https://user-images.githubusercontent.com/108199140/198366884-f35993da-d5fd-4ff2-b9c6-70df978386b0.PNG)
 
-
+## Summary
 
 
 
