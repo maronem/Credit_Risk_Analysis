@@ -30,13 +30,6 @@ Undersampling                                      |   SMOTEEN
 :-------------------------------------------------:|:-----------------------------:
 ![LR_US](https://user-images.githubusercontent.com/108199140/198366857-da6be1ab-2ebe-4559-a6f8-5a5ba6544756.PNG) | ![Combo_OSUS](https://user-images.githubusercontent.com/108199140/198366884-f35993da-d5fd-4ff2-b9c6-70df978386b0.PNG)
 
-### Ensemble Algorithms
-
-Balanced Random Forest                             |   Adaboost
-:-------------------------------------------------:|:-----------------------------:
-![image](https://user-images.githubusercontent.com/108199140/198453402-9a8d0906-bdd1-41bb-bb36-514ad6862657.png) | ![image](https://user-images.githubusercontent.com/108199140/198453503-1e69a804-193e-431c-9220-65ca533c09a7.png)
-
-Unfortunately, during our analysis we encountered errors that we were not able fix prior to submission. In the code files we have entered the code that would have been used to complete these analyses. Our hypothesis is that on our end we do not have a proper library version compatible with the .fit() function for imblearn. 
 
 ## Summary
 
